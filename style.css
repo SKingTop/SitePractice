@@ -1,0 +1,23 @@
+body {
+	min-height: 100%;
+}
+.p-0 {
+	padding: 0;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+	height: 30px;
+	width: 30px;
+}
+h1 {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.footer-copyright {
+	color: #fff;
+}
+a:hover, a:focus{
+	color: #01B70D;
+}
+a {
+	color: #fff;
+}
